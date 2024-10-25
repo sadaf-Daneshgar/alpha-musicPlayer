@@ -59,7 +59,7 @@ This is a simple Music Player project that allows you to play music. You can pla
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://sadaf-daneshgar.github.io/alpha-calculator/)
+- [Live Demo Link](https://sadaf-daneshgar.github.io/alpha-musicPlayer/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
