@@ -38,20 +38,13 @@ const musicDetail = [
     singer: 'Alan Walker',
     music: 'image/endless.mp3',
   },
-  // {
-  //   id: "5",
-  //   image: "image/artymag.jpg",
-  //   name: "Endless Summer",
-  //   singer: "Alan Walker",
-  //   music: "music/Endless Summer.mp3",
-  // },
-  // {
-  //   id: "6",
-  //   image: "image/rom1.webp",
-  //   name: "Endless Summer",
-  //   singer: "Alan Walker",
-  //   music: "music/Endless Summer.mp3",
-  // },
+  {
+    id: '5',
+    image: 'image/artymag.jpg',
+    name: 'Endless Summer',
+    singer: 'Alan Walker',
+    music: 'image/day.mp3',
+  },
 ];
 
 let isPlaying = false;
