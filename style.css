@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
+body {
+  background-image: url('image/mus.avif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+
 button {
   border: none;
   background-color: #fff;
@@ -12,6 +19,19 @@ button {
 
 .card {
   box-shadow: 0 0 10px #a4c1f8;
+  background-image: url('image/music.jfif');
+  background-size: cover;
+}
+
+.pre,
+.next,
+.play {
+  border: none;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #a4c1f8;
+  padding: 8px 16px;
+  margin: 10px 2px;
+  background-color: rgb(251, 240, 255);
 }
 
 #cover {
